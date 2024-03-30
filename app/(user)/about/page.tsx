@@ -1,9 +1,5 @@
 import { Metadata } from 'next'
 import React from "react";
-export const metadata: Metadata = {
-	title: "ISTAD Ecommerce About Us",
-	description: "We are providing the best service for you!",
-}
 
 import {
   BiGlobe,
